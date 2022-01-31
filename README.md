@@ -56,3 +56,7 @@
 > When designing something you always want to start with inspiration and a basic idea of what you're doing. Always keep in mind that design isn't just putting colors and lines together to make things, design is conveying messages and feelings through images, so make sure that everything fits the message you are trying to convey when choosing typography, colors, and design styles.
 
 > `Ex: I am designing a logo for my discord server about small businesses, so I want my logo to be somewhat related to that. I also want my colors to be calm and trusting as that is the mood a small business should convey.`
+
+##### How do I fill unwanted negative space?
+
+> Unwanted negative space can always be filled using patterns or background textures, just make sure that these backgrounds are not interfering with your design too much. To make sure that they don't distract from the main design, you can lower the transparency of your background or make it a less noticeable color.
