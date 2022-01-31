@@ -49,6 +49,10 @@
 
 > This screen size tool allows you to find the size of almost any device, this could be useful for anyone who deals with making designs for different devices.
 
-## ⏏️ More Coming Soon
+## ⏏️ Advice
 
-> More resources will be added to this soon, in the meantime enjoy these! :)
+##### Where do I start?
+
+> When designing something you always want to start with inspiration and a basic idea of what you're doing. Always keep in mind that design isn't just putting colors and lines together to make things, design is conveying messages and feelings through images, so make sure that everything fits the message you are trying to convey when choosing typography, colors, and design styles.
+
+> `Ex: I am designing a logo for my discord server about small businesses, so I want my logo to be somewhat related to that. I also want my colors to be calm and trusting as that is the mood a small business should convey.`
