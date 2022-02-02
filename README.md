@@ -29,6 +29,8 @@
 
 > Font brief is a free tool that allows you to streamline the process of finding fonts. It's super easy and you can choose anywhere from how warm the font is, to how expressive it is. I highly recommend using this when searching for typography to use in your designs.
 
+> CC-0 Font Sites: https://www.fontsquirrel.com/ | https://fonts.google.com/
+
 ##### [Hex Color Info](https://hexcolorpedia.com/) | `Color Info`
 
 > Hex color info allows you to input color and it will show a description of that color along with colors that match or are complimentary. It will also give you pallettes where it mixes with other colors, Analogous Schemes, Split Complementary Schemes, and more.
@@ -48,6 +50,14 @@
 ##### [Screen Sizes](https://www.screensizes.app/) | `Screen Size Finder`
 
 > This screen size tool allows you to find the size of almost any device, this could be useful for anyone who deals with making designs for different devices.
+
+##### [Public Domain Vectors](https://publicdomainvectors.org/) | `Free CC-0 Vectors`
+
+> Public Domain Vectors has thousands of completely free CC-0 vector images that you can use, just visit their website and take a look. You can search for pretty much anything and can even get SVG files, AI files, and more.
+
+##### [Pexels](https://www.pexels.com/) | `Free Stock Videos And Images`
+
+> Pexels is a free website with thousands of free stock images, photos, and more. All stock images are created by individual people and are super high quality, you also get unlimited downloads.
 
 ## ⏏️ Advice
 
