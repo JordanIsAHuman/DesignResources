@@ -5,7 +5,7 @@
 
 ## 🖥️ Software
 
-##### [__Gravit Designer__](https://www.designer.io/en/) | `RECCOMMENDED`
+##### [__Gravit Designer__](https://www.designer.io/en/) (Recommended) | `FREE`
 
 > This is the software I use, I highly recommend this due to how easy it is to learn, the number of features they have, their free library of graphics, their free effects, and how bug-free it is. You can also choose from a variety of templates if you are struggling with inspiration. They allow you to export files as PNG's, JPEG's, SVG's, and PDF's, they also allow you to store all of your designs on the "gravit cloud" so you can access them from anywhere. Gravit does have a premium subscription and some features are locked.
 
