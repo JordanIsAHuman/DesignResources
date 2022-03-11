@@ -59,6 +59,18 @@
 
 > Pexels is a free website with thousands of free stock images, photos, and more. All stock images are created by individual people and are super high quality, you also get unlimited downloads.
 
+##### [Goodbrief](https://goodbrief.io/) | `Unique Briefs For Design`
+
+> You can use Goodbrief to get unique briefs to create "Passion Projects" or just filler projects for your portfolio, behance, and more! This tool is great and allows you to explore your creativity.
+
+##### [Coolors](https://coolors.co/) | `Color Scheme Creator/Generator`
+
+> Coolors is my go to place when I want to make a color scheme for a design, I simply browse their colors and lock ones I like, I can then change and edit them to my liking and make it as unique as I want.
+
+##### [Photopea](https://www.photopea.com/) | `Free Photoshop/Photoshop Alternative`
+
+> Photopea is almost identical to photoshop and allows you to do so much all within your browser, you can edit photos, create mockups, and even open photoshop files and edit them.
+
 ## ⏏️ Advice
 
 ##### Where do I start?
