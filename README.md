@@ -71,14 +71,23 @@
 
 > Photopea is almost identical to photoshop and allows you to do so much all within your browser, you can edit photos, create mockups, and even open photoshop files and edit them.
 
+##### [Mockups-Design](https://mockups-design.com/) | `Free Mockup Assets`
+
+> This website is great if you want free, easy to use mockups. Photoshop is recommended when using these, don't have Photoshop? Check out __Photopea__, a free photoshop alternative.
+
+> Additional tutorial https://www.youtube.com/watch?v=Sc-RiTulzUg
+
+```
+How to use mockups from mockups-design in photopea
+
+1. Open the file in Photopea
+2. Look at the layers on the right hand side
+3. Double click the image of the element that has the example design
+4. Replace the example design with yours
+5. Go to file and click "save smart object"
+6. Go back to the main design and your image should be displayed
+```
+
 ## ⏏️ Advice
 
-##### Where do I start?
-
-> When designing something you always want to start with inspiration and a basic idea of what you're doing. Always keep in mind that design isn't just putting colors and lines together to make things, design is conveying messages and feelings through images, so make sure that everything fits the message you are trying to convey when choosing typography, colors, and design styles.
-
-> `Ex: I am designing a logo for my discord server about small businesses, so I want my logo to be somewhat related to that. I also want my colors to be calm and trusting as that is the mood a small business should convey.`
-
-##### How do I fill unwanted negative space?
-
-> Unwanted negative space can always be filled using patterns or background textures, just make sure that these backgrounds are not interfering with your design too much. To make sure that they don't distract from the main design, you can lower the transparency of your background or make it a less noticeable color.
+Section coming soon!
