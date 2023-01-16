@@ -1,7 +1,7 @@
 # 🎨 Graphic Design | `Resources`
 > Hello there, these are the resources that I commonly use in graphic design, each resource will be listed with the name, link, and additional info. Each resource is also categorized, hope this helps! <3
 
-> Support me by visiting my website here | https://jordandesigns.carrd.co/
+> Support me by visiting my website here | https://jordandesigns.webflow.io/
 
 ## 🖥️ Software
 
